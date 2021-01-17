@@ -1,0 +1,16 @@
+article img {
+    width: 200px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+footer {
+    font-size: 8pt;
+    text-align: center;
+    margin-top: 20px;
+}
