@@ -55,7 +55,11 @@ class TextPlayer {
 
         this.replica++;
         this.viewer.display(this.replica);
-        this.playAudio(this.replica);
+
+        // Do not play first replica because a browser can block it.
+        if (this.replica > 1) {
+            this.playAudio(this.replica);
+        }
 
         if (this.viewer.isLastReplica) this.viewer.displayFinish();
     }
