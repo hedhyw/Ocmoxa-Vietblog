@@ -1,4 +1,4 @@
-[<< back](/README.md)
+### [🏠 Home](/README.md "Go home")
 
 _Vietnamese story for language learners. Hover the word for showing
 tooltip with English translation._
@@ -32,4 +32,3 @@ __If you want to read the text with voice acting, go to the [website](https://vi
 
 
 
-[2021/01/16]
