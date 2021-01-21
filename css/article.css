@@ -35,17 +35,6 @@
     font-weight: bold;
 }
 
-.button {
-    opacity: 0.7;
-    transition: opacity 0.2s;
-    cursor: pointer;
-}
-
-.button:hover {
-    opacity: 1.0;
-    transition: opacity 0.5s;
-}
-
 #button-continue,
 #button-finish {
     text-align: center;
@@ -105,25 +94,6 @@ section {
     display: flex;
     flex-direction: row;
     cursor: default;
-}
-
-.fadein {
-    animation-name: fadeIn;
-    animation-duration: 1s;
-}
-
-.hidden {
-    display: none !important;
-}
-
-@keyframes fadeIn {
-    0% {
-        opacity: 0;
-    }
-
-    100% {
-        opacity: 1;
-    }
 }
 
 body {

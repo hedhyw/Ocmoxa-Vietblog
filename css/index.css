@@ -35,8 +35,18 @@ header {
     max-width: 1000px;
 }
 
+.hidden {
+    display: none;
+}
+
+.more {
+    width: 32px;
+    margin: 0;
+    padding: 0;
+}
+
 header img {
-    width: 164px;
+    width: 128px;
 }
 
 header h1 {
