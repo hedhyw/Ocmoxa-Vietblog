@@ -4,31 +4,31 @@ tooltip with English translation._
 __If you want to read the text with voice acting, go to the [website](https://vietblog.ocmoxa.com/pages/one-thing.html)__.
 
 
-#  [Một thứ](a "One thing")
+#  [Một thứ](/ "One thing")
 
-- 📖 [Thảo](a "Name of a person") [và](a "and") [Hồng](a "name of a person") [là](a "are") [bạn cùng phòng.](a "roomates") Thảo [chuẩn bị](a "prepare") [ra ngoài.](a "go out")
+- 📖 [Thảo](/ "Name of a person") [và](/ "and") [Hồng](/ "name of a person") [là](/ "are") [bạn cùng phòng.](/ "roomates") Thảo [chuẩn bị](/ "prepare") [ra ngoài.](/ "go out")
 
-- 👧  [Đi](a "Go") [đâu](a "where") [thế](a "[used to ask about something happening at the moment]") Thảo?
+- 👧  [Đi](/ "Go") [đâu](/ "where") [thế](/ "[used to ask about something happening at the moment]") Thảo?
 
-- 👱‍♀️  [Mình](a "I") [ra](a "go out") [cửa hàng](a "go to the store") [gần đây](a "near here") [mua](a "buy") [gói](a "a pack") [mì tôm.](a "instant noodle")
+- 👱‍♀️  [Mình](/ "I") [ra](/ "go out") [cửa hàng](/ "go to the store") [gần đây](/ "near here") [mua](/ "buy") [gói](/ "a pack") [mì tôm.](/ "instant noodle")
 
-- 👧  [Mua](a "Buy") [giùm](a "help") [mình](a "me") [một thứ](a "one thing") [được không?](a "can you?")
+- 👧  [Mua](/ "Buy") [giùm](/ "help") [mình](/ "me") [một thứ](/ "one thing") [được không?](/ "can you?")
 
-- 👱‍♀️  [Được chứ!](a "Good") [Gì thế?](a "what is this?")
+- 👱‍♀️  [Được chứ!](/ "Good") [Gì thế?](/ "what is this?")
 
-- 👧  [Một ổ](a "a loaf") [bánh mì](a "bread") [thịt.](a "meat")
+- 👧  [Một ổ](/ "a loaf") [bánh mì](/ "bread") [thịt.](/ "meat")
 
-- 👱‍♀️  [Hơi](a "a litle") [xa.](a "far") [Nhưng](a "But") [tớ](a "I") [ghé qua](a "come over") [mua được.](a "to buy")
+- 👱‍♀️  [Hơi](/ "a litle") [xa.](/ "far") [Nhưng](/ "But") [tớ](/ "I") [ghé qua](/ "come over") [mua được.](/ "to buy")
 
-- 👧  [À quên.](a "Oh, forgot") [Một ly](a "a cup") [trà sữa](a "milk tea") [nữa](a "another") [được không?](a "ok?") [Cũng không xa](a "not far") [đó](a "there") [lắm!](a "very")
+- 👧  [À quên.](/ "Oh, forgot") [Một ly](/ "a cup") [trà sữa](/ "milk tea") [nữa](/ "another") [được không?](/ "ok?") [Cũng không xa](/ "not far") [đó](/ "there") [lắm!](/ "very")
 
-- 👱‍♀️  [Thôi được rồi.](a "Alright!") [Mình](a "I") [đi đây.](a "am going")
+- 👱‍♀️  [Thôi được rồi.](/ "Alright!") [Mình](/ "I") [đi đây.](/ "am going")
 
-- 👧  Thảo ơi, [một món nữa](a "another thing") [nhé?](a "ok?")
+- 👧  Thảo ơi, [một món nữa](/ "another thing") [nhé?](/ "ok?")
 
-- 👱‍♀️  [Thiệt đó hả?](a "Seriously?")
+- 👱‍♀️  [Thiệt đó hả?](/ "Seriously?")
 
-- 👧  [Mình](a "I&#39;m") [chỉ](a "just") [đùa thôi](a "kidding"), [bạn hiền.](a "my friend") [Một ổ bánh mì](a "a loaf of bread") [là đủ rồi.](a "is enough") [Cảm ơn nhiều nhé!](a "thanks so much")
+- 👧  [Mình](/ "I&#39;m") [chỉ](/ "just") [đùa thôi](/ "kidding"), [bạn hiền.](/ "my friend") [Một ổ bánh mì](/ "a loaf of bread") [là đủ rồi.](/ "is enough") [Cảm ơn nhiều nhé!](/ "thanks so much")
 
 
 
