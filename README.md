@@ -1,4 +1,4 @@
-# [https://vietblog.ocmoxa.com](https://vietblog.ocmoxa.com)
+# [VietStories blog](https://vietblog.ocmoxa.com)
 
 Better your Vietnamese with stories for language learners.
 
