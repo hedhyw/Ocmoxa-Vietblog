@@ -1,0 +1,37 @@
+<vietstories>
+  <articles>
+    <article>
+      <name lang="en">Birthday</name>
+      <name lang="vi">Ngày sinh nhật</name>
+      <url>/pages/birthday.xml</url>
+      <date>2021/01/23</date>
+    </article>
+    <article>
+      <name lang="en">What to eat?</name>
+      <name lang="vi">Hôm nay ăn gì?</name>
+      <url>/pages/what-to-eat.xml</url>
+      <date>2021/01/23</date>
+    </article>
+    <article>
+      <name lang="en">One thing</name>
+      <name lang="vi">Một thứ</name>
+      <url>/pages/one-thing.xml</url>
+      <date>2021/01/23</date>
+    </article>
+    <article>
+      <name lang="en">Looking for a girl</name>
+      <name lang="vi">Tìm một cô gái</name>
+      <url>/pages/looking-for-a-girl.xml</url>
+      <date>2021/01/23</date>
+    </article>
+  </articles>
+  <actors>
+    <actor url="imgs/narrator.png">narrator</actor>
+    <actor url="imgs/girl-2.png">girl-2</actor>
+    <actor url="imgs/girl-1.png">girl-1</actor>
+    <actor url="imgs/boy-1.png">boy-1</actor>
+    <actor url="imgs/man-1.png">man-1</actor>
+    <actor url="imgs/woman-1.png">woman-1</actor>
+  </actors>
+</vietstories>
+

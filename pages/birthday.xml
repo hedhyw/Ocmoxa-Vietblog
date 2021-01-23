@@ -1,0 +1,765 @@
+<article>
+  <title lang="vi">Ngày sinh nhật</title>
+  <title lang="en">Birthday</title>
+  <replicas>
+    <replica isHeader="True">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/1.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Ngày sinh nhật</trans>
+        <trans lang="en">Birthday</trans>
+      </token>
+      <token>
+        <trans lang="vi">.</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/2.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Hôm nay</trans>
+        <trans lang="en">Today</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">là</trans>
+        <trans lang="en">is</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">thứ sáu</trans>
+        <trans lang="en">friday</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ngày</trans>
+        <trans lang="en">day</trans>
+      </token>
+      <token>
+        <trans lang="vi"> 15/5 – </trans>
+      </token>
+      <token>
+        <trans lang="vi">ngày sinh nhật</trans>
+        <trans lang="en">birthday</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Nhung</trans>
+        <trans lang="en">name of a person</trans>
+      </token>
+      <token>
+        <trans lang="vi">.</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/3.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> Nhung </trans>
+      </token>
+      <token>
+        <trans lang="vi">đang mong chờ</trans>
+        <trans lang="en">is expecting</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bất ngờ</trans>
+        <trans lang="en">surprise</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">từ</trans>
+        <trans lang="en">from</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mọi người</trans>
+        <trans lang="en">everyone</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">trong nhà</trans>
+        <trans lang="en">at home</trans>
+      </token>
+      <token>
+        <trans lang="vi">.</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/4.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> Nhung </trans>
+      </token>
+      <token>
+        <trans lang="vi">hỏi</trans>
+        <trans lang="en">ask</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mẹ.</trans>
+        <trans lang="en">mom</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/5.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mẹ ơi,</trans>
+        <trans lang="en">Mom</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">hôm nay</trans>
+        <trans lang="en">today</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">là</trans>
+        <trans lang="en">is</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ngày bao nhiêu</trans>
+        <trans lang="en">which day</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">thế</trans>
+        <trans lang="en">[used to ask about something happening at the moment]</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mẹ?</trans>
+        <trans lang="en">mom</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/6.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mẹ</trans>
+        <trans lang="en">Mom</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">không</trans>
+        <trans lang="en">do not</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhớ</trans>
+        <trans lang="en">remember</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nữa.</trans>
+        <trans lang="en">still</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mẹ</trans>
+        <trans lang="en">Mom</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">phải</trans>
+        <trans lang="en">has to</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi</trans>
+        <trans lang="en">go</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đây</trans>
+        <trans lang="en">now</trans>
+      </token>
+      <token>
+        <trans lang="vi">, </trans>
+      </token>
+      <token>
+        <trans lang="vi">mẹ</trans>
+        <trans lang="en">mom</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">có</trans>
+        <trans lang="en">has</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">việc gấp.</trans>
+        <trans lang="en">urgent work</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/7.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> Nhung </trans>
+      </token>
+      <token>
+        <trans lang="vi">hơi</trans>
+        <trans lang="en">a little</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">buồn.</trans>
+        <trans lang="en">sad</trans>
+      </token>
+      <token>
+        <trans lang="vi"> Nhung </trans>
+      </token>
+      <token>
+        <trans lang="vi">lại</trans>
+        <trans lang="en">again</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">hỏi</trans>
+        <trans lang="en">ask</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ba cô.</trans>
+        <trans lang="en">her father</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/8.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Ba ơi,</trans>
+        <trans lang="en">Dad</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ba có quên</trans>
+        <trans lang="en">Do you forget</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">gì không?</trans>
+        <trans lang="en">something?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>man-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/9.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cảm ơn</trans>
+        <trans lang="en">thanks</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">con gái.</trans>
+        <trans lang="en">my daughter</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Ba</trans>
+        <trans lang="en">I/Dad</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">lại</trans>
+        <trans lang="en">again</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">quên</trans>
+        <trans lang="en">forget</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">chìa khoá</trans>
+        <trans lang="en">key</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">rồi.</trans>
+        <trans lang="en">already</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/10.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> Nhung </trans>
+      </token>
+      <token>
+        <trans lang="vi">cùng</trans>
+        <trans lang="en">together</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đến</trans>
+        <trans lang="en">to</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">trường</trans>
+        <trans lang="en">school</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">với</trans>
+        <trans lang="en">with</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">anh trai</trans>
+        <trans lang="en">brother</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">với</trans>
+        <trans lang="en">with</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">tâm trạng</trans>
+        <trans lang="en">mood</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">không được</trans>
+        <trans lang="en">not</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">vui.</trans>
+        <trans lang="en">happy</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/11.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Anh ơi,</trans>
+        <trans lang="en">Brother</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">tối nay</trans>
+        <trans lang="en">tonight</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">anh</trans>
+        <trans lang="en">you</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">có</trans>
+        <trans lang="en">have</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">dự định</trans>
+        <trans lang="en">plan</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">gì không?</trans>
+        <trans lang="en">what?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/12.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Tối à?</trans>
+        <trans lang="en">Evening?</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Anh</trans>
+        <trans lang="en">I/Brother</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">có</trans>
+        <trans lang="en">have</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">hẹn</trans>
+        <trans lang="en">date</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ra ngoài</trans>
+        <trans lang="en">go out</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">với</trans>
+        <trans lang="en">with</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bạn.</trans>
+        <trans lang="en">friend</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Sao vậy?</trans>
+        <trans lang="en">What's up?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/13.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Dạ.</trans>
+        <trans lang="en">Yep</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Không có gì đâu</trans>
+        <trans lang="en">Nothing</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">anh ơi.</trans>
+        <trans lang="en">brother!</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/14.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Sau</trans>
+        <trans lang="en">After</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">giờ học</trans>
+        <trans lang="en">class</trans>
+      </token>
+      <token>
+        <trans lang="vi">, Nhung </trans>
+      </token>
+      <token>
+        <trans lang="vi">về</trans>
+        <trans lang="en">come back</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhà.</trans>
+        <trans lang="en">home</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Vừa</trans>
+        <trans lang="en">While</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi</trans>
+        <trans lang="en">walking</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">vừa</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">tự hỏi.</trans>
+        <trans lang="en">wondering</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/15.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Sao</trans>
+        <trans lang="en">why</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">không ai</trans>
+        <trans lang="en">no one</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhớ</trans>
+        <trans lang="en">remember</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">sinh nhật</trans>
+        <trans lang="en">birthday</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">của</trans>
+        <trans lang="en">of</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mình</trans>
+        <trans lang="en">me</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">vậy?</trans>
+        <trans lang="en">emphasize to why</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/16.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> Nhung </trans>
+      </token>
+      <token>
+        <trans lang="vi">vừa</trans>
+        <trans lang="en">just</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bước</trans>
+        <trans lang="en">enter</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">vào nhà.</trans>
+        <trans lang="en">to home</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Bùm…</trans>
+        <trans lang="en">Boom..</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/happy-birthday/17.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Chúc mừng sinh nhật!!!...</trans>
+        <trans lang="en">Happy birthday to you!!!!...</trans>
+      </token>
+      <token>
+        <trans lang="vi"> 🎂</trans>
+      </token>
+    </replica>
+  </replicas>
+</article>
+

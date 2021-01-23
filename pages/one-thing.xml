@@ -1,0 +1,473 @@
+<article>
+  <title lang="vi">Một thứ</title>
+  <title lang="en">One thing</title>
+  <replicas>
+    <replica isHeader="True">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/1.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Một thứ</trans>
+        <trans lang="en">One thing</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/2.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Thảo</trans>
+        <trans lang="en">Name of a person</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">và</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Hồng</trans>
+        <trans lang="en">name of a person</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">là</trans>
+        <trans lang="en">are</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bạn cùng phòng.</trans>
+        <trans lang="en">roomates</trans>
+      </token>
+      <token>
+        <trans lang="vi"> Thảo </trans>
+      </token>
+      <token>
+        <trans lang="vi">chuẩn bị</trans>
+        <trans lang="en">prepare</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ra ngoài.</trans>
+        <trans lang="en">go out</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/3.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Đi</trans>
+        <trans lang="en">Go</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đâu</trans>
+        <trans lang="en">where</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">thế</trans>
+        <trans lang="en">[used to ask about something happening at the moment]</trans>
+      </token>
+      <token>
+        <trans lang="vi"> Thảo?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/4.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mình</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ra</trans>
+        <trans lang="en">go out</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cửa hàng</trans>
+        <trans lang="en">go to the store</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">gần đây</trans>
+        <trans lang="en">near here</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mua</trans>
+        <trans lang="en">buy</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">gói</trans>
+        <trans lang="en">a pack</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mì tôm.</trans>
+        <trans lang="en">instant noodle</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/5.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mua</trans>
+        <trans lang="en">Buy</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">giùm</trans>
+        <trans lang="en">help</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mình</trans>
+        <trans lang="en">me</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">một thứ</trans>
+        <trans lang="en">one thing</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">được không?</trans>
+        <trans lang="en">can you?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/6.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Được chứ!</trans>
+        <trans lang="en">Good</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Gì thế?</trans>
+        <trans lang="en">what is this?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/7.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Một ổ</trans>
+        <trans lang="en">a loaf</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bánh mì</trans>
+        <trans lang="en">bread</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">thịt.</trans>
+        <trans lang="en">meat</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/8.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Hơi</trans>
+        <trans lang="en">a litle</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">xa.</trans>
+        <trans lang="en">far</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Nhưng</trans>
+        <trans lang="en">But</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">tớ</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ghé qua</trans>
+        <trans lang="en">come over</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mua được.</trans>
+        <trans lang="en">to buy</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/9.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">À quên.</trans>
+        <trans lang="en">Oh, forgot</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Một ly</trans>
+        <trans lang="en">a cup</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">trà sữa</trans>
+        <trans lang="en">milk tea</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nữa</trans>
+        <trans lang="en">another</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">được không?</trans>
+        <trans lang="en">ok?</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cũng không xa</trans>
+        <trans lang="en">not far</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đó</trans>
+        <trans lang="en">there</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">lắm!</trans>
+        <trans lang="en">very</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/10.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Thôi được rồi.</trans>
+        <trans lang="en">Alright!</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mình</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi đây.</trans>
+        <trans lang="en">am going</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/11.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  Thảo ơi, </trans>
+      </token>
+      <token>
+        <trans lang="vi">một món nữa</trans>
+        <trans lang="en">another thing</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhé?</trans>
+        <trans lang="en">ok?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/12.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Thiệt đó hả?</trans>
+        <trans lang="en">Seriously?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/one-thing/13.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mình</trans>
+        <trans lang="en">I'm</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">chỉ</trans>
+        <trans lang="en">just</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đùa thôi</trans>
+        <trans lang="en">kidding</trans>
+      </token>
+      <token>
+        <trans lang="vi">, </trans>
+      </token>
+      <token>
+        <trans lang="vi">bạn hiền.</trans>
+        <trans lang="en">my friend</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Một ổ bánh mì</trans>
+        <trans lang="en">a loaf of bread</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">là đủ rồi.</trans>
+        <trans lang="en">is enough</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cảm ơn nhiều nhé!</trans>
+        <trans lang="en">thanks so much</trans>
+      </token>
+    </replica>
+  </replicas>
+</article>
+

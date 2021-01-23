@@ -1,0 +1,702 @@
+<article>
+  <title lang="vi">Tìm một cô gái</title>
+  <title lang="en">Looking for a girl</title>
+  <replicas>
+    <replica isHeader="True">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/1.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Tìm</trans>
+        <trans lang="en">Find</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">một</trans>
+        <trans lang="en">a</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô gái</trans>
+        <trans lang="en">girl</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/2.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Dương</trans>
+        <trans lang="en">Name of a person</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đang đi dạo</trans>
+        <trans lang="en">is jogging</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ở</trans>
+        <trans lang="en">in</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">công viên</trans>
+        <trans lang="en">the park</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Anh</trans>
+        <trans lang="en">he</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">vô tình</trans>
+        <trans lang="en">accidentally</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhìn thấy</trans>
+        <trans lang="en">saw</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">một cô gái.</trans>
+        <trans lang="en">a girl</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/3.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> Dương </trans>
+      </token>
+      <token>
+        <trans lang="vi">tiến lại gần</trans>
+        <trans lang="en">comes closer to</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô</trans>
+        <trans lang="en">her</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">và</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">hỏi</trans>
+        <trans lang="en">ask</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">điều gì đó.</trans>
+        <trans lang="en">something</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/4.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Chào bạn</trans>
+        <trans lang="en">Hello</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mình</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đang tìm</trans>
+        <trans lang="en">am finding</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">một</trans>
+        <trans lang="en">a</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô gái</trans>
+        <trans lang="en">girl</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Bạn có thấy</trans>
+        <trans lang="en">Do you see</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô gái</trans>
+        <trans lang="en">girl</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nào</trans>
+        <trans lang="en">any</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">quanh đây</trans>
+        <trans lang="en">around here</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">không?</trans>
+        <trans lang="en">define a question</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/5.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Chào bạn</trans>
+        <trans lang="en">Hello</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Ừ</trans>
+        <trans lang="en">OK</trans>
+      </token>
+      <token>
+        <trans lang="vi">, </trans>
+      </token>
+      <token>
+        <trans lang="vi">được chứ</trans>
+        <trans lang="en">all right</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô gái ấy</trans>
+        <trans lang="en">that girl</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">trông</trans>
+        <trans lang="en">look like</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">như thế nào?</trans>
+        <trans lang="en">how</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/6.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô ấy</trans>
+        <trans lang="en">she</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">rất</trans>
+        <trans lang="en">very</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đẹp</trans>
+        <trans lang="en">beautiful</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">với</trans>
+        <trans lang="en">with</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mái tóc</trans>
+        <trans lang="en">hair</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ngắn.</trans>
+        <trans lang="en">short</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/7.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô gái</trans>
+        <trans lang="en">she</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đang nói chuyện</trans>
+        <trans lang="en">is talking</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">với</trans>
+        <trans lang="en">with</trans>
+      </token>
+      <token>
+        <trans lang="vi"> Dương. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô tên</trans>
+        <trans lang="en">her name is</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">An</trans>
+        <trans lang="en">Name of person</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">và</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô</trans>
+        <trans lang="en">she</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cũng</trans>
+        <trans lang="en">also</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">có</trans>
+        <trans lang="en">have</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mái tóc</trans>
+        <trans lang="en">hair</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ngắn.</trans>
+        <trans lang="en">short</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/8.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô ấy</trans>
+        <trans lang="en">She</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đang mặc</trans>
+        <trans lang="en">is wearing</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">gì?</trans>
+        <trans lang="en">what</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/9.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Một chiếc</trans>
+        <trans lang="en">a</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đầm</trans>
+        <trans lang="en">dress</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đỏ</trans>
+        <trans lang="en">red</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">và</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">chiếc</trans>
+        <trans lang="en">a</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">túi sách</trans>
+        <trans lang="en">hand bag</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đen.</trans>
+        <trans lang="en">black</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/10.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> An </trans>
+      </token>
+      <token>
+        <trans lang="vi">hơi</trans>
+        <trans lang="en">a little</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bối rối</trans>
+        <trans lang="en">confused</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">vì</trans>
+        <trans lang="en">because</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô</trans>
+        <trans lang="en">she</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cũng</trans>
+        <trans lang="en">also</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đang mặc</trans>
+        <trans lang="en">is wearing</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">như thế</trans>
+        <trans lang="en">like that</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô</trans>
+        <trans lang="en">she</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhìn</trans>
+        <trans lang="en">look</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">xung quanh.</trans>
+        <trans lang="en">around</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/11.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mình</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">không thấy</trans>
+        <trans lang="en">did not see</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ai</trans>
+        <trans lang="en">anyone</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">như vậy cả.</trans>
+        <trans lang="en">like that</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/looking-for-a-girl/12.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">À</trans>
+        <trans lang="en">Oh</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mình</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đã tìm thấy rồi</trans>
+        <trans lang="en">found</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô ấy</trans>
+        <trans lang="en">she</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đứng</trans>
+        <trans lang="en">is standing</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ngay trước</trans>
+        <trans lang="en">right in front of</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mặt mình</trans>
+        <trans lang="en">my face</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đây</trans>
+        <trans lang="en">here</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Bạn</trans>
+        <trans lang="en">you</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cho</trans>
+        <trans lang="en">allow</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mình</trans>
+        <trans lang="en">me</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">làm quen</trans>
+        <trans lang="en">to become friend</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">được không</trans>
+        <trans lang="en">OK?</trans>
+      </token>
+      <token>
+        <trans lang="vi">? </trans>
+      </token>
+      <token>
+        <trans lang="vi">Bạn</trans>
+        <trans lang="en">you</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">rất</trans>
+        <trans lang="en">very</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">dễ thương.</trans>
+        <trans lang="en">cute</trans>
+      </token>
+    </replica>
+  </replicas>
+</article>
+

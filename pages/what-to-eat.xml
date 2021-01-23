@@ -1,0 +1,457 @@
+<article>
+  <title lang="vi">Hôm nay ăn gì?</title>
+  <title lang="en">What to eat?</title>
+  <replicas>
+    <replica isHeader="True">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/1.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Hôm nay</trans>
+        <trans lang="en">Today</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ăn</trans>
+        <trans lang="en">eat</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">gì?</trans>
+        <trans lang="en">what</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/2.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Anh ơi!</trans>
+        <trans lang="en">Darling!</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Em</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đói</trans>
+        <trans lang="en">am hungry</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">quá.</trans>
+        <trans lang="en">very</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/3.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Thế</trans>
+        <trans lang="en">Then</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">tối nay</trans>
+        <trans lang="en">tonight</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">em</trans>
+        <trans lang="en">you</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">muốn</trans>
+        <trans lang="en">want</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ăn</trans>
+        <trans lang="en">eat</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">gì?</trans>
+        <trans lang="en">what</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/4.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Em</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ăn</trans>
+        <trans lang="en">eat</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">gì cũng được</trans>
+        <trans lang="en">whatever</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Anh</trans>
+        <trans lang="en">You</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">chọn</trans>
+        <trans lang="en">choose</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi.</trans>
+        <trans lang="en">please</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/5.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Ăn</trans>
+        <trans lang="en">eat</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Phở</trans>
+        <trans lang="en">Pho</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhé?</trans>
+        <trans lang="en">OK?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/6.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Hôm qua</trans>
+        <trans lang="en">Yesterday</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mình</trans>
+        <trans lang="en">we</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mới</trans>
+        <trans lang="en">recently</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ăn</trans>
+        <trans lang="en">eat</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">rồi mà!</trans>
+        <trans lang="en">already</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/7.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Ừ</trans>
+        <trans lang="en">I got</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Chúng ta</trans>
+        <trans lang="en">We</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ăn</trans>
+        <trans lang="en">eat</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đồ Hàn</trans>
+        <trans lang="en">korean food</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">được không?</trans>
+        <trans lang="en">Ok?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/8.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cay</trans>
+        <trans lang="en">spicy</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">lắm</trans>
+        <trans lang="en">very</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Em</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">không</trans>
+        <trans lang="en">do not</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">muốn.</trans>
+        <trans lang="en">want</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/9.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Thế</trans>
+        <trans lang="en">Then</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ăn</trans>
+        <trans lang="en">eat</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đồ chiên</trans>
+        <trans lang="en">fried food</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhé?</trans>
+        <trans lang="en">ok?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/10.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Nhiều dầu mỡ</trans>
+        <trans lang="en">greasy</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">lắm</trans>
+        <trans lang="en">very</trans>
+      </token>
+      <token>
+        <trans lang="vi">. </trans>
+      </token>
+      <token>
+        <trans lang="vi">Em</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đang ăn kiêng.</trans>
+        <trans lang="en">on a diet</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/11.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Thế</trans>
+        <trans lang="en">Then</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">em</trans>
+        <trans lang="en">you</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">chọn</trans>
+        <trans lang="en">choose</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">món</trans>
+        <trans lang="en">dish</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi?</trans>
+        <trans lang="en">please</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/what-to-eat/12.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Món</trans>
+        <trans lang="en">Dish</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nào</trans>
+        <trans lang="en">any</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cũng được</trans>
+        <trans lang="en">ok</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">hết mà!!</trans>
+        <trans lang="en">all</trans>
+      </token>
+    </replica>
+  </replicas>
+</article>
+
