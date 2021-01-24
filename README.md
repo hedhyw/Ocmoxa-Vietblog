@@ -4,6 +4,9 @@ Better your Vietnamese with stories for language learners.
 
 **List of content:**
 
+* [Đi chợ giúp mẹ - Go shopping for mom ](/pages/go-shopping-for-mom.md) 2021/01/24
+
+
 * [Trả giá khi đi chợ - Bargain when going to the market](/pages/bargain-at-the-market.md) 2021/01/24
 
 

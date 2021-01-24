@@ -1,6 +1,12 @@
 <vietstories>
   <articles>
     <article>
+      <name lang="en">Go shopping for mom </name>
+      <name lang="vi">Đi chợ giúp mẹ</name>
+      <url>/pages/go-shopping-for-mom.xml</url>
+      <date>2021/01/24</date>
+    </article>
+    <article>
       <name lang="en">Bargain when going to the market</name>
       <name lang="vi">Trả giá khi đi chợ</name>
       <url>/pages/bargain-at-the-market.xml</url>

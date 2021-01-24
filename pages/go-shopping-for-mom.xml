@@ -1,0 +1,743 @@
+<article>
+  <title lang="vi">Đi chợ giúp mẹ</title>
+  <title lang="en">Go shopping for mom </title>
+  <replicas>
+    <replica isHeader="True">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/1.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Đi chợ</trans>
+        <trans lang="en">go shopping</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cho</trans>
+        <trans lang="en">for</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mẹ</trans>
+        <trans lang="en">mom</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/2.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mẹ</trans>
+        <trans lang="en">Mom</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Dương</trans>
+        <trans lang="en">Name of a person</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đang</trans>
+        <trans lang="en">show the present continuous tense</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bận</trans>
+        <trans lang="en">busy</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nấu cơm</trans>
+        <trans lang="en">cook</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">trong</trans>
+        <trans lang="en">in</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bếp.</trans>
+        <trans lang="en">kitchen</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/3.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  Dương ơi, </trans>
+      </token>
+      <token>
+        <trans lang="vi">xuống</trans>
+        <trans lang="en">come down</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đây</trans>
+        <trans lang="en">here</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mẹ</trans>
+        <trans lang="en">mom</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhờ</trans>
+        <trans lang="en">ask for help</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ít.</trans>
+        <trans lang="en">little</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/4.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Dạ.</trans>
+        <trans lang="en">Yes</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Gì thế</trans>
+        <trans lang="en">what is it</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mẹ?</trans>
+        <trans lang="en">mom</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/5.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Qua</trans>
+        <trans lang="en">Go to</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cửa hàng</trans>
+        <trans lang="en">the store</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">gần</trans>
+        <trans lang="en">near</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đây</trans>
+        <trans lang="en">here</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mua</trans>
+        <trans lang="en">buy</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">giùm</trans>
+        <trans lang="en">help</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mẹ</trans>
+        <trans lang="en">me/mom</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ít đồ</trans>
+        <trans lang="en">something</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/6.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Dạ.</trans>
+        <trans lang="en">Yes</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Mua</trans>
+        <trans lang="en">Buy</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">gì</trans>
+        <trans lang="en">what</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mẹ?</trans>
+        <trans lang="en">mom</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/7.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Một</trans>
+        <trans lang="en">One</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">quả cà chua,</trans>
+        <trans lang="en">the tomato</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">năm</trans>
+        <trans lang="en">five</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">quả trứng,</trans>
+        <trans lang="en">the egg</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nửa</trans>
+        <trans lang="en">half</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">kí</trans>
+        <trans lang="en">kg</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bún</trans>
+        <trans lang="en">rice noodle</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">và</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">một lạng</trans>
+        <trans lang="en">100 gram</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">hành lá</trans>
+        <trans lang="en">scallion</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/8.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> Dương </trans>
+      </token>
+      <token>
+        <trans lang="vi">vừa</trans>
+        <trans lang="en">while</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi</trans>
+        <trans lang="en">go</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">vừa</trans>
+        <trans lang="en">while</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhẩm</trans>
+        <trans lang="en">repeat to myself</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">lại</trans>
+        <trans lang="en">again</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">những thứ</trans>
+        <trans lang="en">things</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cần</trans>
+        <trans lang="en">need</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mua</trans>
+        <trans lang="en">buy</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/9.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Bỗng</trans>
+        <trans lang="en">Suddenly</trans>
+      </token>
+      <token>
+        <trans lang="vi"> Dương </trans>
+      </token>
+      <token>
+        <trans lang="vi">vấp</trans>
+        <trans lang="en">tripped over</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">phải</trans>
+        <trans lang="en">by</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cục đá</trans>
+        <trans lang="en">the stone</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">và</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">té</trans>
+        <trans lang="en">fall</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">xuống.</trans>
+        <trans lang="en">down</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/10.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> Dương </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi</trans>
+        <trans lang="en">go</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">tiếp</trans>
+        <trans lang="en">continue</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đến</trans>
+        <trans lang="en">to</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cửa hàng.</trans>
+        <trans lang="en">the store</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/11.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô ơi,</trans>
+        <trans lang="en">Mrs</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">lấy</trans>
+        <trans lang="en">take</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cho</trans>
+        <trans lang="en">for</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">con</trans>
+        <trans lang="en">me</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">năm</trans>
+        <trans lang="en">five</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">quả cà chua,</trans>
+        <trans lang="en">the tomato</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">một</trans>
+        <trans lang="en">one</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">quả trứng.</trans>
+        <trans lang="en">the egg</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/12.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô bán hàng</trans>
+        <trans lang="en">The seller</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">lấy</trans>
+        <trans lang="en">take</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cho</trans>
+        <trans lang="en">for</trans>
+      </token>
+      <token>
+        <trans lang="vi"> Dương.</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-2</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/13.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Gì nữa không</trans>
+        <trans lang="en">what else?</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">con?</trans>
+        <trans lang="en">child</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>boy-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/14.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Dạ,</trans>
+        <trans lang="en">Yes</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nửa kí</trans>
+        <trans lang="en">half of kg</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">hành</trans>
+        <trans lang="en">scallion</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">và</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">một lạng</trans>
+        <trans lang="en">100 gram</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bún</trans>
+        <trans lang="en">rice noodle</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nữa</trans>
+        <trans lang="en">else</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nhé cô.</trans>
+        <trans lang="en">Mrs</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/15.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> Dương </trans>
+      </token>
+      <token>
+        <trans lang="vi">trả tiền</trans>
+        <trans lang="en">pay</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">và</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi về nhà.</trans>
+        <trans lang="en">go home</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/go-shopping-for-mom/16.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Ôi</trans>
+        <trans lang="en">Oh</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">con trai mẹ!</trans>
+        <trans lang="en">my son</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Hôm nay</trans>
+        <trans lang="en">Today</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">con</trans>
+        <trans lang="en">You</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">thích</trans>
+        <trans lang="en">like</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">ăn</trans>
+        <trans lang="en">eat</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">rau</trans>
+        <trans lang="en">vegetables</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đến vậy à?</trans>
+        <trans lang="en">so much?</trans>
+      </token>
+    </replica>
+  </replicas>
+</article>
+
