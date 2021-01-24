@@ -1,0 +1,762 @@
+<article>
+  <title lang="vi">Trả giá khi đi chợ</title>
+  <title lang="en">Bargain when going to the market</title>
+  <replicas>
+    <replica isHeader="True">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/1.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Trả giá</trans>
+        <trans lang="en">Bargain</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">khi</trans>
+        <trans lang="en">when</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi</trans>
+        <trans lang="en">go</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">chợ</trans>
+        <trans lang="en">market</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/2.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Hôm nay</trans>
+        <trans lang="en">Today</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">là</trans>
+        <trans lang="en">is</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cuối tuần.</trans>
+        <trans lang="en">weekend</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Lan</trans>
+        <trans lang="en">Name of a person</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi chợ</trans>
+        <trans lang="en">go to the market</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mua</trans>
+        <trans lang="en">buy</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">quần áo.</trans>
+        <trans lang="en">clothes</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/3.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Trông thấy</trans>
+        <trans lang="en">See</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cái áo</trans>
+        <trans lang="en">the shirt</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">xinh xắn.</trans>
+        <trans lang="en">pretty</trans>
+      </token>
+      <token>
+        <trans lang="vi"> Lan </trans>
+      </token>
+      <token>
+        <trans lang="vi">ghé vào</trans>
+        <trans lang="en">stop by</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">hàng</trans>
+        <trans lang="en">shop</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">và</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">xem.</trans>
+        <trans lang="en">take a look</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/4.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô bán hàng</trans>
+        <trans lang="en">Seller</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">chào</trans>
+        <trans lang="en">say hi</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">và</trans>
+        <trans lang="en">and</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">nói chuyện</trans>
+        <trans lang="en">talk</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">với</trans>
+        <trans lang="en">with</trans>
+      </token>
+      <token>
+        <trans lang="vi"> Lan.</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/5.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Con gái,</trans>
+        <trans lang="en">Girl</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">chọn được</trans>
+        <trans lang="en">Have choosen</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cái nào</trans>
+        <trans lang="en">Which one</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">chưa?</trans>
+        <trans lang="en">already?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/6.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cái áo</trans>
+        <trans lang="en">The shirt</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">này</trans>
+        <trans lang="en">this</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đẹp,</trans>
+        <trans lang="en">beautiful</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô ơi.</trans>
+        <trans lang="en">Mrs</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô</trans>
+        <trans lang="en">You</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cho</trans>
+        <trans lang="en">allow</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">con</trans>
+        <trans lang="en">me</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">thử</trans>
+        <trans lang="en">try</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">được không?</trans>
+        <trans lang="en">Ok?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/7.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Con</trans>
+        <trans lang="en">You</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mặc</trans>
+        <trans lang="en">wear</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cỡ</trans>
+        <trans lang="en">size</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">mấy?</trans>
+        <trans lang="en">which?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/8.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Dạ</trans>
+        <trans lang="en">Yes</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cỡ</trans>
+        <trans lang="en">size</trans>
+      </token>
+      <token>
+        <trans lang="vi"> XL </trans>
+      </token>
+      <token>
+        <trans lang="vi">ạ.</trans>
+        <trans lang="en">show respect for adults</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/9.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô bán hàng</trans>
+        <trans lang="en">seller</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">lấy</trans>
+        <trans lang="en">take</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">áo</trans>
+        <trans lang="en">shirt</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cho</trans>
+        <trans lang="en">for</trans>
+      </token>
+      <token>
+        <trans lang="vi"> Lan </trans>
+      </token>
+      <token>
+        <trans lang="vi">thử</trans>
+        <trans lang="en">try</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/10.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Vào đây</trans>
+        <trans lang="en">Come here</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">thử</trans>
+        <trans lang="en">try</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đi con.</trans>
+        <trans lang="en">please!</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/11.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Vừa</trans>
+        <trans lang="en">Fit</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">lắm</trans>
+        <trans lang="en">very</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô.</trans>
+        <trans lang="en">Mrs</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Bao nhiêu</trans>
+        <trans lang="en">How much</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cái này?</trans>
+        <trans lang="en">this one?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/12.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  150 </trans>
+      </token>
+      <token>
+        <trans lang="vi">nghìn</trans>
+        <trans lang="en">thousand</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">con ơi.</trans>
+        <trans lang="en">child</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/13.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Bớt</trans>
+        <trans lang="en">Discount</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cho</trans>
+        <trans lang="en">for</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">con</trans>
+        <trans lang="en">me</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">chút</trans>
+        <trans lang="en">a little</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">được không</trans>
+        <trans lang="en">ok?</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô?</trans>
+        <trans lang="en">mrs</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/14.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  100 </trans>
+      </token>
+      <token>
+        <trans lang="vi">ngàn</trans>
+        <trans lang="en">thousand</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">thế nào</trans>
+        <trans lang="en">how is</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô?</trans>
+        <trans lang="en">Mrs?</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/15.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Không được đâu</trans>
+        <trans lang="en">Impossible</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">con.</trans>
+        <trans lang="en">child</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cùng lắm là</trans>
+        <trans lang="en">At most</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cô</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bớt</trans>
+        <trans lang="en">discount</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">còn</trans>
+        <trans lang="en">down to</trans>
+      </token>
+      <token>
+        <trans lang="vi"> 120 </trans>
+      </token>
+      <token>
+        <trans lang="vi">nghìn</trans>
+        <trans lang="en">thousand</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">thôi.</trans>
+        <trans lang="en">only</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>girl-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/16.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Vẫn</trans>
+        <trans lang="en">still</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đắc</trans>
+        <trans lang="en">expensive</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">quá.</trans>
+        <trans lang="en">very</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Chắc</trans>
+        <trans lang="en">Maybe</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">con</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">không</trans>
+        <trans lang="en">do not</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">lấy</trans>
+        <trans lang="en">buy</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">đâu.</trans>
+        <trans lang="en">to emphasize sentence</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>narrator</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/17.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi"> Lan </trans>
+      </token>
+      <token>
+        <trans lang="vi">vừa</trans>
+        <trans lang="en">just</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">rời khỏi</trans>
+        <trans lang="en">leave</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">cửa hàng</trans>
+        <trans lang="en">the shop</trans>
+      </token>
+    </replica>
+    <replica isHeader="False">
+      <actor>woman-1</actor>
+      <token>
+        <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/18.mp3</audio>
+      </token>
+      <token>
+        <trans lang="vi">  </trans>
+      </token>
+      <token>
+        <trans lang="vi">Thôi</trans>
+        <trans lang="en">Ok..</trans>
+      </token>
+      <token>
+        <trans lang="vi"> 100 </trans>
+      </token>
+      <token>
+        <trans lang="vi">nghìn</trans>
+        <trans lang="en">thousand</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">vậy.</trans>
+        <trans lang="en">then</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">Cô</trans>
+        <trans lang="en">I</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">bán cho</trans>
+        <trans lang="en">sell</trans>
+      </token>
+      <token>
+        <trans lang="vi"> </trans>
+      </token>
+      <token>
+        <trans lang="vi">này.</trans>
+        <trans lang="en">this</trans>
+      </token>
+    </replica>
+  </replicas>
+</article>
+
