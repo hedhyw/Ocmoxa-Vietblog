@@ -3,7 +3,7 @@
   <title lang="en">Bargain when going to the market</title>
   <replicas>
     <replica isHeader="True">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/1.mp3</audio>
       </token>
@@ -37,7 +37,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/2.mp3</audio>
       </token>
@@ -92,7 +92,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/3.mp3</audio>
       </token>
@@ -147,7 +147,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/4.mp3</audio>
       </token>
@@ -191,7 +191,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>woman-1</actor>
+      <actor>/imgs/woman-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/5.mp3</audio>
       </token>
@@ -225,7 +225,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/6.mp3</audio>
       </token>
@@ -294,7 +294,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>woman-1</actor>
+      <actor>/imgs/woman-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/7.mp3</audio>
       </token>
@@ -328,7 +328,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/8.mp3</audio>
       </token>
@@ -355,7 +355,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/9.mp3</audio>
       </token>
@@ -396,7 +396,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>woman-1</actor>
+      <actor>/imgs/woman-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/10.mp3</audio>
       </token>
@@ -423,7 +423,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/11.mp3</audio>
       </token>
@@ -464,7 +464,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>woman-1</actor>
+      <actor>/imgs/woman-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/12.mp3</audio>
       </token>
@@ -484,7 +484,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/13.mp3</audio>
       </token>
@@ -532,7 +532,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/14.mp3</audio>
       </token>
@@ -559,7 +559,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>woman-1</actor>
+      <actor>/imgs/woman-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/15.mp3</audio>
       </token>
@@ -621,7 +621,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/16.mp3</audio>
       </token>
@@ -683,7 +683,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/17.mp3</audio>
       </token>
@@ -710,7 +710,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>woman-1</actor>
+      <actor>/imgs/woman-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/bargain-when-going-to-the-market/18.mp3</audio>
       </token>

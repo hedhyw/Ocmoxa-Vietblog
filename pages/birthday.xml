@@ -3,7 +3,7 @@
   <title lang="en">Birthday</title>
   <replicas>
     <replica isHeader="True">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/1.mp3</audio>
       </token>
@@ -19,7 +19,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/2.mp3</audio>
       </token>
@@ -70,7 +70,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/3.mp3</audio>
       </token>
@@ -114,7 +114,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/4.mp3</audio>
       </token>
@@ -134,7 +134,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-2</actor>
+      <actor>/imgs/girl-2.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/5.mp3</audio>
       </token>
@@ -182,7 +182,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>woman-1</actor>
+      <actor>/imgs/woman-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/6.mp3</audio>
       </token>
@@ -265,7 +265,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/7.mp3</audio>
       </token>
@@ -306,7 +306,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-2</actor>
+      <actor>/imgs/girl-2.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/8.mp3</audio>
       </token>
@@ -333,7 +333,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>man-1</actor>
+      <actor>/imgs/man-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/9.mp3</audio>
       </token>
@@ -388,7 +388,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/10.mp3</audio>
       </token>
@@ -457,7 +457,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-2</actor>
+      <actor>/imgs/girl-2.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/11.mp3</audio>
       </token>
@@ -505,7 +505,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>boy-1</actor>
+      <actor>/imgs/boy-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/12.mp3</audio>
       </token>
@@ -567,7 +567,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-2</actor>
+      <actor>/imgs/girl-2.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/13.mp3</audio>
       </token>
@@ -594,7 +594,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/14.mp3</audio>
       </token>
@@ -656,7 +656,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-2</actor>
+      <actor>/imgs/girl-2.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/15.mp3</audio>
       </token>
@@ -711,7 +711,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/16.mp3</audio>
       </token>
@@ -745,7 +745,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/happy-birthday/17.mp3</audio>
       </token>

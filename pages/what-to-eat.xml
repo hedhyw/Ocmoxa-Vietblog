@@ -3,7 +3,7 @@
   <title lang="en">What to eat?</title>
   <replicas>
     <replica isHeader="True">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/1.mp3</audio>
       </token>
@@ -30,7 +30,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/2.mp3</audio>
       </token>
@@ -64,7 +64,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>boy-1</actor>
+      <actor>/imgs/boy-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/3.mp3</audio>
       </token>
@@ -112,7 +112,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/4.mp3</audio>
       </token>
@@ -160,7 +160,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>boy-1</actor>
+      <actor>/imgs/boy-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/5.mp3</audio>
       </token>
@@ -187,7 +187,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/6.mp3</audio>
       </token>
@@ -228,7 +228,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>boy-1</actor>
+      <actor>/imgs/boy-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/7.mp3</audio>
       </token>
@@ -269,7 +269,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/8.mp3</audio>
       </token>
@@ -310,7 +310,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>boy-1</actor>
+      <actor>/imgs/boy-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/9.mp3</audio>
       </token>
@@ -344,7 +344,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/10.mp3</audio>
       </token>
@@ -378,7 +378,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>boy-1</actor>
+      <actor>/imgs/boy-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/11.mp3</audio>
       </token>
@@ -419,7 +419,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/what-to-eat/12.mp3</audio>
       </token>

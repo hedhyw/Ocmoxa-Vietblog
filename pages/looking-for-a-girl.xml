@@ -3,7 +3,7 @@
   <title lang="en">Looking for a girl</title>
   <replicas>
     <replica isHeader="True">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/1.mp3</audio>
       </token>
@@ -30,7 +30,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/2.mp3</audio>
       </token>
@@ -92,7 +92,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/3.mp3</audio>
       </token>
@@ -133,7 +133,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>boy-1</actor>
+      <actor>/imgs/boy-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/4.mp3</audio>
       </token>
@@ -209,7 +209,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/5.mp3</audio>
       </token>
@@ -257,7 +257,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>boy-1</actor>
+      <actor>/imgs/boy-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/6.mp3</audio>
       </token>
@@ -305,7 +305,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/7.mp3</audio>
       </token>
@@ -388,7 +388,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/8.mp3</audio>
       </token>
@@ -415,7 +415,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>boy-1</actor>
+      <actor>/imgs/boy-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/9.mp3</audio>
       </token>
@@ -470,7 +470,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/10.mp3</audio>
       </token>
@@ -546,7 +546,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/11.mp3</audio>
       </token>
@@ -580,7 +580,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>boy-1</actor>
+      <actor>/imgs/boy-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/looking-for-a-girl/12.mp3</audio>
       </token>

@@ -3,7 +3,7 @@
   <title lang="en">One thing</title>
   <replicas>
     <replica isHeader="True">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/1.mp3</audio>
       </token>
@@ -16,7 +16,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>narrator</actor>
+      <actor>/imgs/narrator.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/2.mp3</audio>
       </token>
@@ -71,7 +71,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/3.mp3</audio>
       </token>
@@ -101,7 +101,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-2</actor>
+      <actor>/imgs/girl-2.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/4.mp3</audio>
       </token>
@@ -156,7 +156,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/5.mp3</audio>
       </token>
@@ -197,7 +197,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-2</actor>
+      <actor>/imgs/girl-2.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/6.mp3</audio>
       </token>
@@ -217,7 +217,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/7.mp3</audio>
       </token>
@@ -244,7 +244,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-2</actor>
+      <actor>/imgs/girl-2.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/8.mp3</audio>
       </token>
@@ -292,7 +292,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/9.mp3</audio>
       </token>
@@ -354,7 +354,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-2</actor>
+      <actor>/imgs/girl-2.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/10.mp3</audio>
       </token>
@@ -381,7 +381,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/11.mp3</audio>
       </token>
@@ -401,7 +401,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-2</actor>
+      <actor>/imgs/girl-2.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/12.mp3</audio>
       </token>
@@ -414,7 +414,7 @@
       </token>
     </replica>
     <replica isHeader="False">
-      <actor>girl-1</actor>
+      <actor>/imgs/girl-1.png</actor>
       <token>
         <audio type="audio/mpeg">/audios/one-thing/13.mp3</audio>
       </token>
