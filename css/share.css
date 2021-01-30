@@ -203,3 +203,8 @@
 .resp-sharing-button--telegram:hover {
     background-color: #4B97D1;
 }
+
+
+.share a {
+    color: white !important
+}
