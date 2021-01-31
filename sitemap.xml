@@ -1,30 +1,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vietblog.ocmoxa.com/index.html</loc>
-    <lastmod>2021-01-30</lastmod>
+    <lastmod>2021-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://vietblog.ocmoxa.com/about.html</loc>
-    <lastmod>2021-01-30</lastmod>
+    <lastmod>2021-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://vietblog.ocmoxa.com/pages/go-shopping-for-mom.html</loc>
-    <lastmod>2021-01-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vietblog.ocmoxa.com/pages/go-shopping-for-mom.md</loc>
-    <lastmod>2021-01-25</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vietblog.ocmoxa.com/pages/go-shopping-for-mom.xml</loc>
     <lastmod>2021-01-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -36,31 +24,7 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vietblog.ocmoxa.com/pages/bargain-at-the-market.md</loc>
-    <lastmod>2021-01-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vietblog.ocmoxa.com/pages/bargain-at-the-market.xml</loc>
-    <lastmod>2021-01-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://vietblog.ocmoxa.com/pages/birthday.html</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vietblog.ocmoxa.com/pages/birthday.md</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vietblog.ocmoxa.com/pages/birthday.xml</loc>
     <lastmod>2021-01-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -72,49 +36,13 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vietblog.ocmoxa.com/pages/what-to-eat.md</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vietblog.ocmoxa.com/pages/what-to-eat.xml</loc>
-    <lastmod>2021-01-23</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://vietblog.ocmoxa.com/pages/one-thing.html</loc>
     <lastmod>2021-01-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://vietblog.ocmoxa.com/pages/one-thing.md</loc>
-    <lastmod>2021-01-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vietblog.ocmoxa.com/pages/one-thing.xml</loc>
-    <lastmod>2021-01-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://vietblog.ocmoxa.com/pages/looking-for-a-girl.html</loc>
-    <lastmod>2021-01-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vietblog.ocmoxa.com/pages/looking-for-a-girl.md</loc>
-    <lastmod>2021-01-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://vietblog.ocmoxa.com/pages/looking-for-a-girl.xml</loc>
     <lastmod>2021-01-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
