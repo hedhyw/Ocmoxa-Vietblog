@@ -99,3 +99,7 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+.google-play-badge img {
+    width: 150px;
+}
