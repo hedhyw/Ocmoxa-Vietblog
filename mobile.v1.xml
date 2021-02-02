@@ -4,37 +4,37 @@
       <name lang="en">Go shopping for mom </name>
       <name lang="vi">Đi chợ giúp mẹ</name>
       <url>/pages/go-shopping-for-mom.xml</url>
-      <date>2021/01/31</date>
+      <date>2021/02/02</date>
     </article>
     <article type="story.v1">
       <name lang="en">Bargain when going to the market</name>
       <name lang="vi">Trả giá khi đi chợ</name>
       <url>/pages/bargain-at-the-market.xml</url>
-      <date>2021/01/31</date>
+      <date>2021/02/02</date>
     </article>
     <article type="story.v1">
       <name lang="en">Birthday</name>
       <name lang="vi">Ngày sinh nhật</name>
       <url>/pages/birthday.xml</url>
-      <date>2021/01/31</date>
+      <date>2021/02/02</date>
     </article>
     <article type="story.v1">
       <name lang="en">What to eat?</name>
       <name lang="vi">Hôm nay ăn gì?</name>
       <url>/pages/what-to-eat.xml</url>
-      <date>2021/01/31</date>
+      <date>2021/02/02</date>
     </article>
     <article type="story.v1">
       <name lang="en">One thing</name>
       <name lang="vi">Một thứ</name>
       <url>/pages/one-thing.xml</url>
-      <date>2021/01/31</date>
+      <date>2021/02/02</date>
     </article>
     <article type="story.v1">
       <name lang="en">Looking for a girl</name>
       <name lang="vi">Tìm một cô gái</name>
       <url>/pages/looking-for-a-girl.xml</url>
-      <date>2021/01/31</date>
+      <date>2021/02/02</date>
     </article>
   </articles>
   <actors>
